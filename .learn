@@ -13,5 +13,5 @@ languages:
 type:
   - lab
 tests:
- - none
+ - green_onion
 level: 2
